@@ -1,6 +1,6 @@
 # 🌙 SAFFRON HOUSE - Restaurant Food Ordering System
 
-## Assignment 2
+## System with Backend
 
 ---
 
@@ -85,7 +85,7 @@ Table Number: 5
 Total: AED 178
 Time: 1/15/2024, 10:30:00 AM
 ================================================
-✅ Assignment Requirements
+✅Requirements
 Node.js/Express backend
 
 GET /catalog endpoint
