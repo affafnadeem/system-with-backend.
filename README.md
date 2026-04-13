@@ -99,7 +99,4 @@ React Native mobile app
 
 Cart functionality
 
-
-
-
-
+<img width="200" height="200" alt="QR code" src="https://github.com/user-attachments/assets/a7f959f6-0579-44d8-b3e3-20cc126ac2c0" />
