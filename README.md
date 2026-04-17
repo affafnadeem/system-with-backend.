@@ -1,4 +1,4 @@
-# 🌙 SAFFRON HOUSE - Restaurant Food Ordering System
+# SAFFRON HOUSE - Restaurant Food Ordering System
 
 ## System with Backend
 
